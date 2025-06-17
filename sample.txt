@@ -1,0 +1,14 @@
+Quarterly Performance Summary: Q1 2025
+
+The Marketing department spent a total of $42,000 on campaigns, resulting in 1,850 qualified leads. The average cost per lead was approximately $22.70. Email marketing performed better than expected, converting 320 leads, while paid ads converted 215 leads.
+
+The Sales department closed 610 deals out of 1,850 leads, with a conversion rate of 33%. Total revenue generated this quarter was $285,000. The average deal size increased from $420 in Q4 2024 to $467 in Q1 2025.
+
+The Product team resolved 120 customer feature requests, with an average resolution time of 4.2 days. They also launched 3 major features, impacting 80% of users based on usage metrics.
+
+Customer Support handled 3,200 support tickets with a satisfaction rating of 92.5%. The average response time improved from 5.1 hours to 3.4 hours over the quarter.
+
+Recommendations:
+- Increase investment in email marketing (higher conversion rate)
+- Explore upselling in high-value deals (deal size increased)
+- Focus on maintaining low response times in support
